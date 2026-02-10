@@ -4,11 +4,7 @@
   Advanced MySQL Database Project for Sales Analytics & Business Reporting  
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-blue" />
-  <img src="https://img.shields.io/badge/Project-SQL%20Analytics-green" />
-  <img src="https://img.shields.io/badge/Level-MNC%20Ready-orange" />
-</p>
+
 
 ---
 
@@ -63,27 +59,9 @@ ecommerce-sales-database/
 
 ---
 
-## 📷 Output Screenshots
-
-Add your MySQL Workbench query output screenshots inside the `screenshots/` folder:
-
-- tables.png  
-- customers_output.png  
-- revenue.png  
-- top_customer.png  
-- sales_summary.png  
-
-Then update README to display them.
 
 ---
 
-## 📌 Future Enhancements
-
-🚀 PowerBI Dashboard Integration  
-🚀 Fraud Detection Queries  
-🚀 Cloud Deployment using AWS RDS  
-
----
 
 ## 👩‍💻 Author
 
