@@ -88,4 +88,4 @@ Then update README to display them.
 ## 👩‍💻 Author
 
 **Vidya**  
-Aspiring Data & SQL Professional | MNC Placement Ready  
+  
